@@ -1,15 +1,15 @@
 +++
-title = "About"
+title = "about me"
 
 [extra]
 no_header = true
 +++
 
-This is a [Zola][zola] port of [Sam theme][original] for [Hugo][hugo].
+gameplay programmer/game designer.
 
-See the [repository][repository] for information on how to set it up.
-
-[zola]: https://getzola.org
-[original]: https://github.com/victoriadotdev/hugo-theme-sam
-[hugo]: https://gohugo.io
-[repository]: https://github.com/janbaudisch/zola-sam
+<i class="fas fa-envelope fa-2x" onClick="(function(){
+	window.location.href = 'mailto:shoyuvanilla@gmail.com';
+})();return false;"></i> <i class="fab fa-github fa-2x" onClick="(function(){
+	var win = window.open('https://github.com/ShoyuVanilla');
+	win.focus();
+})();return false;"></i>
