@@ -7,8 +7,9 @@ no_header = true
 
 ## rpg enviroments
 
-[LaTeX D&D 5e Korean template](https://github.com/ShoyuVanilla/DND-5e-LaTeX-Template-Korean)
+### <a href="https://github.com/ShoyuVanilla/DND-5e-LaTeX-Template-Korean" target="_blank">latex d&d 5e korean template</a>
 
-[techie dungeon master's tome](https://ttgt.shoyuvanilla.net)
 
-### translations
+
+### <a href="https://ttgt.shoyuvanilla.net" target="_blank">techie game master's tome</a>
+
